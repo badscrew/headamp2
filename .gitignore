@@ -4,3 +4,4 @@ sim/*.raw
 sim/*.log
 sim/*.plt
 sim/*.fft
+kicad/*/*.sch-bak
